@@ -38,5 +38,10 @@ jobs:
         uses: louis70109/line-notify-action@master
         with:
           token: ${{ secrets.LINE_NOTIFY_TOKEN }}
-          message: 'The job was automatically triggered by a ${{ github.event_name }} event. 
-          The ${{ github.repository }} repository has been cloned to the runner 囉.'
+          message: 'The job was automatically triggered by a ${{ github.event_name }} event."
+            This job is now running on a ${{ runner.os }} server hosted by GitHub!
+            The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
+            The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
+            workspace: ${{ github.workspace }}
+            This job's status is ${{ job.status }}."
+           '
