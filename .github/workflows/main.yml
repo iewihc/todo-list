@@ -41,5 +41,4 @@ jobs:
           message: 'The job was automatically triggered by a ${{ github.event_name }} event."
             This job is now running on a ${{ runner.os }} server hosted by GitHub!
             The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
-            The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
-            This job's status is ${{ job.status }}.'
+            The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.'
