@@ -43,5 +43,5 @@ jobs:
             The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
             The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
             workspace: ${{ github.workspace }}
-            This job's status is ${{ job.status }}."
+            This job's status is ${{ job.status }}.
            '
