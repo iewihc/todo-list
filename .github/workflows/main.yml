@@ -42,6 +42,5 @@ jobs:
             This job is now running on a ${{ runner.os }} server hosted by GitHub!
             The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
             The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}.
-            workspace: ${{ github.workspace }}
             This job's status is ${{ job.status }}.
            '
