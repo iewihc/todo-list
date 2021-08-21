@@ -39,5 +39,5 @@ jobs:
         with:
           token: ${{ secrets.LINE_NOTIFY_TOKEN }}
           message: |
-          The job was automatically triggered by a ${{ github.event_name }} event. 
-          The ${{ github.repository }} repository has been cloned to the runner 囉.
+          'The job was automatically triggered by a ${{ github.event_name }} event. 
+          The ${{ github.repository }} repository has been cloned to the runner 囉.'
