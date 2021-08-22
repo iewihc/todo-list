@@ -1,8 +1,8 @@
-![example workflow](https://github.com/iewihc/todo-list/actions/workflows/main.yml/badge.svg)
+![example workflow3](https://github.com/iewihc/todo-list/actions/workflows/main.yml/badge.svg)
 
-![Time](https://byob.yarr.is/iewihc/todo-list/time)
+![Time1](https://byob.yarr.is/iewihc/todo-list/time)
 
-![Custom](https://byob.yarr.is/iewihc/todo-list/custom)
+![Custom2](https://byob.yarr.is/iewihc/todo-list/custom)
 
 
 # todo-list-vue 
