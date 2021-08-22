@@ -1,3 +1,10 @@
+![example workflow](https://github.com/iewihc/todo-list/actions/workflows/main.yml/badge.svg)
+
+![Time](https://byob.yarr.is/iewihc/todo-list/time)
+
+![Custom](https://byob.yarr.is/iewihc/todo-list/custom)
+
+
 # todo-list-vue 
 
 ## Project setup
@@ -28,11 +35,9 @@ test
 
 
 ## windows test1
-![example workflow](https://github.com/iewihc/todo-list/actions/workflows/main.yml/badge.svg)
 
 <!-- A test of the [BYOB](https://github.com/RubbaBoy/BYOB) (Bring Your Own Badge) GitHub Action. -->
 
-![Time](https://byob.yarr.is/iewihc/todo-list/time)
 
 <!-- ![Machine](https://byob.yarr.is/iewihc/todo-list/machine)
 

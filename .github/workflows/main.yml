@@ -57,3 +57,12 @@ jobs:
           STATUS: ${{ steps.date.outputs.data }}
           COLOR: 00EEFF
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+      - name: Time badge
+        uses: RubbaBoy/BYOB@v1.2.1
+        with:
+          NAME: custom
+          ICON: 'https://simpleicons.now.sh/counter-strike/e43'
+          LABEL: 'Updated at'
+          STATUS: 'Vue'
+          COLOR: green
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
