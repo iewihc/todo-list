@@ -26,16 +26,20 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 test
 
 
-# cmakeprj
-test cmake prj with actions
-## Contents
 
 ## windows test1
 ![example workflow](https://github.com/iewihc/todo-list/actions/workflows/main.yml/badge.svg)
 
-## A
-![](https://byob.yarr.is/RubbaBoy/Example/time)
+A test of the [BYOB](https://github.com/RubbaBoy/BYOB) (Bring Your Own Badge) GitHub Action.
 
+![Time](https://byob.yarr.is/RubbaBoy/BYOBTest/time)
 
-## B
-![](https://byob.yarr.is/RubbaBoy/Example/time/shields/child/dir/badges.json)
+![Machine](https://byob.yarr.is/RubbaBoy/BYOBTest/machine)
+
+![Size](https://byob.yarr.is/RubbaBoy/BYOBTest/size)
+
+![GitHub](https://byob.yarr.is/RubbaBoy/BYOBTest/github)
+
+![Git](https://byob.yarr.is/RubbaBoy/BYOBTest/git)
+
+![Custom](https://byob.yarr.is/RubbaBoy/BYOBTest/custom)
