@@ -32,14 +32,14 @@ test
 
 A test of the [BYOB](https://github.com/RubbaBoy/BYOB) (Bring Your Own Badge) GitHub Action.
 
-![Time](https://byob.yarr.is/RubbaBoy/BYOBTest/time)
+![Time](https://byob.yarr.is/iewihc/todo-list/time)
 
-![Machine](https://byob.yarr.is/RubbaBoy/BYOBTest/machine)
+![Machine](https://byob.yarr.is/iewihc/todo-list/machine)
 
-![Size](https://byob.yarr.is/RubbaBoy/BYOBTest/size)
+![Size](https://byob.yarr.is/iewihc/todo-list/size)
 
-![GitHub](https://byob.yarr.is/RubbaBoy/BYOBTest/github)
+![GitHub](https://byob.yarr.is/iewihc/todo-list/github)
 
-![Git](https://byob.yarr.is/RubbaBoy/BYOBTest/git)
+![Git](https://byob.yarr.is/iewihc/todo-list/git)
 
-![Custom](https://byob.yarr.is/RubbaBoy/BYOBTest/custom)
+![Custom](https://byob.yarr.is/iewihc/todo-list/custom)
