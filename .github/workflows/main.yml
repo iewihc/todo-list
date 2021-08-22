@@ -61,7 +61,7 @@ jobs:
         uses: RubbaBoy/BYOB@v1.2.1
         with:
           NAME: custom
-          ICON: 'https://simpleicons.now.sh/counter-strike/e43'
+          ICON: 'https://i.stack.imgur.com/DztuN.png?s=128&g=1'
           LABEL: 'Updated at'
           STATUS: 'Vue'
           COLOR: green
