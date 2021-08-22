@@ -31,4 +31,4 @@ test cmake prj with actions
 ## Contents
 
 ## windows test1
-![example workflow](https://github.com/iewihc/todo-list/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/iewihc/todo-list/actions/workflows/main.yml/badge.svg)
