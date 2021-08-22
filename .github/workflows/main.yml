@@ -46,9 +46,8 @@ jobs:
           # image_url: 'https://raw.githubusercontent.com/louis70109/line-notify-action/master/tests/image1.png'
           sticker_id: 1
           package_id: 1
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - id: date
+        run: echo "##[set-output name=data;]$(date)"
       - name: Time badge
         uses: RubbaBoy/BYOB@v1.2.1
         with:
@@ -56,8 +55,8 @@ jobs:
           LABEL: 'Updated at'
           STATUS: ${{ steps.date.outputs.data }}
           COLOR: 00EEFF
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-      - name: Time badge
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Custom Badge
         uses: RubbaBoy/BYOB@v1.2.1
         with:
           NAME: custom
