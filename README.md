@@ -24,3 +24,11 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 test
+
+
+# cmakeprj
+test cmake prj with actions
+## Contents
+
+## windows test1
+![example workflow](https://github.com/iewihc/todo-list/workflows/main.yml/badge.svg)
